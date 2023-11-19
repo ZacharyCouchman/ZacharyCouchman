@@ -1,6 +1,6 @@
-## G'day, I'm Zach 👋 - welcome to my GitHub
+## Hi, I'm Zach 👋 - welcome to my GitHub
 
-### I'm a passionate engineer that enjoys building quality products
+### I'm an ethusiatic engineer that enjoys building quality products
 
 - 👨‍💻 I’m currently working on frontend web technologies using React and Typescript in the web3 space
 
