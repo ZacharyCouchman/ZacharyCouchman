@@ -6,7 +6,7 @@
 
 - 📚 I'm learning as much as I can about front end and back end tech
 
-- 🕵️‍♂️ I am curios to discover and try new technologies when I can
+- 🕵️‍♂️ I am curious to discover and try new technologies when I can
 
 - 🏈 Fun Fact: I'm a big Carlton supporter in Aussie Rules football
 
